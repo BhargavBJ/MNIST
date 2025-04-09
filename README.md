@@ -1,1 +1,1 @@
-# MNIST
+# MNIST Dataset learning in Pytorch
