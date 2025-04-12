@@ -49,7 +49,7 @@ MNIST-CNN-Digit-Classifier/ ├── mnist_cnn_digit_classifier.ipynb # Main Co
 
 ## 🛠 Requirements (For Local Use)
 
-> If you want to run it locally instead of Colab, install the following:
+> If you want to run it locally instead of Colab, install the following(only if your device has a GPU):
 
 ```bash
 pip install torch torchvision matplotlib pillow
